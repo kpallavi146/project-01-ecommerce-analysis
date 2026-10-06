@@ -55,7 +55,7 @@ The project analyzes:
 
 -Key Business Insights
 
-- The cleaned dataset generated approximately **£10.67 million** in revenue.
+- After filtering cancelled and non-positive transactions, the analysis dataset contains positive completed-sales-style transactions generating approximately **£10.67 million** in revenue.
 - **November 2011** recorded the highest monthly revenue at approximately **£1.51 million**.
 - **REGENCY CAKESTAND 3 TIER** was the highest-revenue actual product, generating approximately **£174,485**.
 - The **United Kingdom** was the dominant market, contributing approximately **84.6%** of total revenue.
@@ -70,7 +70,7 @@ The project analyzes:
 - Develop re-engagement campaigns for At Risk customers.
 - Promote high-performing products through targeted campaigns and product bundles.
 - Investigate high-AOV international markets for potential expansion.
-- Monitor monthly revenue trends to identify seasonal demand patterns.
+- Monitor monthly revenue trends to identify seasonal demand patterns, while considering that December 2011 represents only a partial month.
 
 
 
